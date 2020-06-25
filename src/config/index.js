@@ -1,10 +1,10 @@
 module.exports = {
 
-    author: "@konstantinmuenster",
-    siteTitle: "Konstantin Münster Portfolio",
-    siteShortTitle: "km.", // Used as logo text in header, footer, and splash screen
-    siteDescription: "Hi there! I'm Konstantin Münster, a product manager and freelance web developer based in Hamburg.",
-    siteUrl: "https://konstantin.digital",
+    author: "@SterlingSmith",
+    siteTitle: "Sterling Smith Portfolio",
+    siteShortTitle: "ss.", // Used as logo text in header, footer, and splash screen
+    siteDescription: "Hi there! I'm Sterling Smith, a fractional product manager, startup founder and freelance app developer based in Austin.",
+    siteUrl: "https://sterlingsmith.me",
     siteLanguage: "en_US",
     siteIcon: "src/content/favicon.png", // Relative to gatsby-config file
 
@@ -18,15 +18,15 @@ module.exports = {
         },
         {
             name: "Linkedin",
-            url: "https://www.linkedin.com/in/konstantin-muenster/"
+            url: "https://www.linkedin.com/in/sterlingssmith/"
         },
         {
             name: "Medium",
-            url: "https://medium.com/@konstantin.muenster"
+            url: "https://medium.com/@sterlingwrites"
         },
         {
             name: "Github",
-            url: "https://github.com/konstantinmuenster"
+            url: "https://github.com/sterling-smith"
         },
         // {
         //     name: "Behance",

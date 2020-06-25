@@ -42,7 +42,7 @@ const Privacy = ({ data }) => {
   const { body, frontmatter } = data.privacy.edges[0].node
   return (
     <Layout splashScreen={false}>
-      <SEO title="Privacy Policy - Konstantin Münster" meta={[{ name: 'robots', content: 'noindex'}]} />
+      <SEO title="Privacy Policy - Sterling Smith" meta={[{ name: 'robots', content: 'noindex'}]} />
       <StyledSection id={frontmatter.title}>
         <StyledContentWrapper>
           <h1>{frontmatter.title}</h1>
