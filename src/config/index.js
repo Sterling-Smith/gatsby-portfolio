@@ -8,7 +8,7 @@ module.exports = {
     siteLanguage: "en_US",
     siteIcon: "src/content/favicon.png", // Relative to gatsby-config file
 
-    mediumRssFeed: "https://rss2json.com/#rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40sterlingwrites https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40sterlingwrites",
+    mediumRssFeed: "https://rss2json.com/#rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40sterlingwrites",
     shownArticles: 3,
     
     socialMedia: [
