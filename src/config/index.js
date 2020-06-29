@@ -1,9 +1,9 @@
 module.exports = {
 
     author: "@SterlingSmith",
-    siteTitle: "Sterling Smith Portfolio",
+    siteTitle: "Sterling Smith - No Code Startup Founder | Fullstack Developer | Product Manager",
     siteShortTitle: "ss.", // Used as logo text in header, footer, and splash screen
-    siteDescription: "Hi there! I'm Sterling Smith, a fractional product manager, startup founder and freelance app developer based in Austin.",
+    siteDescription: "Hi there! I'm Sterling Smith, a no code pioneer, product manager, and freelance app developer based in Austin.",
     siteUrl: "https://sterling.ooo",
     siteLanguage: "en_US",
     siteIcon: "src/content/favicon.png", // Relative to gatsby-config file
