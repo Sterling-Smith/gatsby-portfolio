@@ -24,6 +24,10 @@ module.exports = {
             name: "Github",
             url: "https://github.com/sterling-smith"
         },
+        {
+            name: "Twitter",
+            url: "https://twitter.com/sterlingsmith"
+        },
         // {
         //     name: "Behance",
         //     url: "https://www.behance.net/konstanmnster"
