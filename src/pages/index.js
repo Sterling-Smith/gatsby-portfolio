@@ -14,7 +14,7 @@ import Contact from "../components/sections/contact"
 
 const IndexPage = ({ data }) => (
   <Layout splashScreen={true}>
-    <SEO title="Sterling Smith - Based in Austin." />
+    <SEO title="Sterling Smith - No Code Startup Founder | Fullstack Developer | Product Manager - Based in Austin." />
     <Hero content={data.hero.edges} />
     {/* Articles is populated via Medium RSS Feed fetch */}
     <Articles />
