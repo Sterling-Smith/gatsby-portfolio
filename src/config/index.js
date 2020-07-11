@@ -37,7 +37,7 @@ module.exports = {
     navLinks: {
         menu: [
             {
-                name: "Articles",
+                name: "Recent Articles",
                 url: "/#articles",
             },
             {
@@ -47,6 +47,10 @@ module.exports = {
             {
                 name: "Projects",
                 url: "/#projects",
+            },
+            {
+                name: "Blog",
+                url: "https://www.sterlingsmith.me"
             },
         ],
         button: {
