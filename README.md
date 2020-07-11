@@ -4,7 +4,7 @@
 
 This is the first iteration of my personal website. The project is under ongoing development. However, feel free to use it as a basis for your own portfolio - please just read the note below first. And if you find any bugs or improvements, let me know!
 
-![konstantin.digital Screenshot](./screenshot.png)
+![konstantin.digital Screenshot](./screenshot.jpeg)
 
 ## Note
 I've made my portfolio open source for your inspiration. I think, especially for beginners, it can be hard to get a first starting point. So feel free to build your portfolio up on mine. However, if you do so, please leave a tiny hint on your site that links to my site [konstantin.digital](https://konstantin.digital) or this [GitHub project](https://github.com/konstantinmuenster/gatsby-portfolio). Thanks and happy coding!
